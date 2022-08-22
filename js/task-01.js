@@ -25,3 +25,4 @@ arrayCategories.forEach((item) => {
 
 // Category: Technologies
 // Elements: 5
+// 
